@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hammer Explorer</string>
+    <string name="pl_upward">pl_upward</string>
+    <string name="ctf_2fort_image">ctf_2fort image</string>
+    <string name="ctf_2fort">ctf_2fort</string>
+    <string name="pl_upward_image">pl_upward image</string>
+</resources>
